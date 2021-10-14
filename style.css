@@ -1,0 +1,71 @@
+/* *{
+    color: ghostwhite;
+} */
+
+body{
+    background-color:black;
+    padding: 70px;
+}
+
+.box{
+    background-color: white;
+    font-weight: bolder;
+    font-size: 300%;
+
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#blue{
+    background-color: lightblue;
+    height: 250px;
+    width: 700px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.catz img{
+    width: 150px;
+    height: 150px;
+    flex-direction: row;
+    padding: 30px;
+}
+
+#pink{
+    background-color: lightcoral;
+    height: 250px;
+    width: 700px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.catzz img{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    flex-direction: row;
+    padding: 40px;
+}
+
+#wheat{
+    background-color: wheat;
+    height: 250px;
+    width: 700px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.catzzz img{
+    width: 150px;
+    height: 150px;
+    flex-direction: row;
+    padding: 30px;
+}
